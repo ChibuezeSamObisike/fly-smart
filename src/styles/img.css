@@ -1,0 +1,20 @@
+.img {
+  width: 100%;
+  height: 100%;
+  /* padding: 20px; */
+  border-radius: 2px;
+}
+
+.noJetImage {
+  opacity: 0.5;
+  width: 30%;
+  border: 2px solid;
+  border-radius: 50%;
+}
+
+.noJetsContainer {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

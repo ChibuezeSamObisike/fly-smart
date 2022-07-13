@@ -1,0 +1,186 @@
+[{
+        "code": "FC",
+        "name": "Abuja",
+        "city": "Abuja"
+    },
+    {
+        "code": "AB",
+        "name": "Abia",
+        "city": "Umuahia"
+    },
+    {
+        "code": "AD",
+        "name": "Adamawa",
+        "city": "Yola"
+    },
+    {
+        "code": "AK",
+        "name": "AkwaIbom",
+        "city": "Uyo"
+    },
+    {
+        "code": "AN",
+        "name": "Anambra",
+        "city": "Awka"
+    },
+    {
+        "code": "BA",
+        "name": "Bauchi",
+        "city": "Bauchi"
+    },
+    {
+        "code": "BY",
+        "name": "Bayelsa",
+        "city": "Yeneguoa"
+    },
+    {
+        "code": "BE",
+        "name": "Benue",
+        "city": "Markudi"
+    },
+    {
+        "code": "BO",
+        "name": "Borno",
+        "city": "Madugiri"
+    },
+    {
+        "code": "CR",
+        "name": "CrossRiver",
+        "city": "Calabar"
+    },
+    {
+        "code": "DE",
+        "name": "Delta",
+        "city": "Asaba"
+    },
+    {
+        "code": "EB",
+        "name": "Ebonyi",
+        "city": "Abakiliki"
+    },
+    {
+        "code": "ED",
+        "name": "Edo",
+        "city": "Benin"
+    },
+    {
+        "code": "EK",
+        "name": "Ekiti",
+        "city": "Ekiti"
+    },
+    {
+        "code": "EN",
+        "name": "Enugu",
+        "city": "Enugu"
+    },
+    {
+        "code": "GO",
+        "name": "Gombe",
+        "city": "Gombe"
+    },
+    {
+        "code": "IM",
+        "name": "Imo",
+        "city": "Owerri"
+    },
+    {
+        "code": "JI",
+        "name": "Jigawa",
+        "city": "Dutse"
+    },
+    {
+        "code": "KD",
+        "name": "Kaduna",
+        "city": "Kaduna"
+    },
+    {
+        "code": "KN",
+        "name": "Kano",
+        "city": "Kano"
+    },
+    {
+        "code": "KT",
+        "name": "Katsina",
+        "city": "Katsina"
+    },
+    {
+        "code": "KE",
+        "name": "Kebbi",
+        "city": "Kebbi"
+    },
+    {
+        "code": "KO",
+        "name": "Kogi",
+        "city": "Lokoja"
+    },
+    {
+        "code": "KW",
+        "name": "Kwara",
+        "city": "Ilorin"
+    },
+    {
+        "code": "LA",
+        "name": "Lagos",
+        "city": "Lagos"
+    },
+    {
+        "code": "NA",
+        "name": "Nassarawa",
+        "city": "Lafia"
+    },
+    {
+        "code": "NI",
+        "name": "Niger",
+        "city": "Minna"
+    },
+    {
+        "code": "OG",
+        "name": "Ogun",
+        "city": "Abeuokuta"
+    },
+    {
+        "code": "ON",
+        "name": "Ondo",
+        "city": "Akure"
+    },
+    {
+        "code": "OS",
+        "name": "Osun",
+        "city": "Osogbo"
+    },
+    {
+        "code": "OY",
+        "name": "Oyo",
+        "city": ""
+    },
+    {
+        "code": "PL",
+        "name": "Plateau",
+        "city": ""
+    },
+    {
+        "code": "RI",
+        "name": "Rivers",
+        "city": ""
+    },
+    {
+        "code": "SO",
+        "name": "Sokoto",
+        "city": ""
+    },
+    {
+        "code": "TA",
+        "name": "Taraba",
+        "city": ""
+    },
+    {
+        "code": "YO",
+        "name": "Yobe",
+        "city": ""
+    },
+    {
+        "code": "ZA",
+        "name": "Zamfara",
+        "city": ""
+    }
+]
